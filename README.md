@@ -1,1 +1,1 @@
-# -Vanilla-Javascript-todo
+# vanilla-todo
